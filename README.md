@@ -1,6 +1,6 @@
 ## Hello there, human.
 <img width="1280" height="720" alt="Baguette_Spinning" src="https://github.com/user-attachments/assets/229e0d22-f489-48a9-8d55-680ece943c74" />
-[Image Source](https://commons.wikimedia.org/wiki/File:Baguette_Spinning.gif)
+[Image source](https://commons.wikimedia.org/wiki/File:Baguette_Spinning.gif)
 
 Baguettes are rotating, and soon you will be rotating, too. 
 You cannot prevent this, for I am a baguette and my location is indeterminate.
